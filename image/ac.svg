@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="62px" viewBox="0 0 63 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="updated" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Features-Page-Update-–-Logged-In-Basic" transform="translate(-828.000000, -678.000000)">
+            <g id="Group-7" transform="translate(829.333333, 679.000000)">
+                <g id="Icon-3" transform="translate(-0.000000, 0.000000)">
+                    <path d="M59.9998,30 C59.9998,46.568 46.5688,60 29.9998,60 C13.4318,60 -0.0002,46.568 -0.0002,30 C-0.0002,13.432 13.4318,0 29.9998,0 C46.5688,0 59.9998,13.432 59.9998,30 Z" id="Fill-1" fill="#FFFFFF"></path>
+                    <path d="M59.9998,30 C59.9998,46.568 46.5688,60 29.9998,60 C13.4318,60 -0.0002,46.568 -0.0002,30 C-0.0002,13.432 13.4318,0 29.9998,0 C46.5688,0 59.9998,13.432 59.9998,30 Z" id="Stroke-3" stroke="#D6D6D6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polygon id="Stroke-5" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="38.641 41.98 44.649 41.98 44.649 21.02 38.641 21.02"></polygon>
+                    <polygon id="Stroke-7" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="27.141 41.98 33.141 41.98 33.141 28.565 27.141 28.565"></polygon>
+                    <polygon id="Stroke-8" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="15.351 41.98 21.36 41.98 21.36 36.11 15.351 36.11"></polygon>
+                    <path d="M36.9593,11.2427 L37.0603,15.4097" id="Stroke-9" stroke="#00ADEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M32.3348,12.1509 L36.6418,11.2159 C36.6558,11.2139 36.6658,11.2299 36.6568,11.2409 C27.3768,23.2649 13.9608,24.9049 13.9608,24.9049" id="Stroke-10" stroke="#00ADEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="62px" viewBox="0 0 63 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M27.3029522,20 L18.07745,20 C15.540998,20 13.4646989,22.0843158 13.4646989,24.6351976 L13.4646989,27.7280015 C13.4646989,30.2756767 15.540998,32.3648024 18.07745,32.3648024 L18.8470435,32.3648024 L18.8470435,37 L24.1187591,32.3648024 L27.3029522,32.3648024 C29.8394042,32.3648024 31.9141,30.2756767 31.9141,27.7280015 L31.9141,24.6351976 C31.9141,22.0843158 29.8394042,20 27.3029522,20" id="path-1"></path>
+    </defs>
+    <g id="updated" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Features-Page-Update-–-Logged-Out" transform="translate(-544.000000, -677.000000)">
+            <g id="Group-10" transform="translate(505.000000, 678.000000)">
+                <g id="Group-5" transform="translate(40.666667, 0.000000)">
+                    <path d="M40.919,17.7863 L44.328,14.3763" id="Stroke-5" stroke="#00ADEF" stroke-width="2"></path>
+                    <path d="M42.9849,21.9723 L48.0609,21.9723" id="Stroke-7" stroke="#00ADEF" stroke-width="2"></path>
+                    <path d="M37,15.173 L37,11" id="Stroke-9" stroke="#00ADEF" stroke-width="2"></path>
+                    <path d="M60,30 C60,46.568 46.568,60 30,60 C13.432,60 0,46.568 0,30 C0,13.432 13.432,0 30,0 C46.568,0 60,13.432 60,30 Z" id="Stroke-1" stroke="#D6D6D6" stroke-width="2"></path>
+                    <path d="M40.3029522,28 L31.07745,28 C28.540998,28 26.4646989,30.0843158 26.4646989,32.6351976 L26.4646989,35.7280015 C26.4646989,38.2756767 28.540998,40.3648024 31.07745,40.3648024 L31.8470435,40.3648024 L31.8470435,45 L37.1187591,40.3648024 L40.3029522,40.3648024 C42.8394042,40.3648024 44.9141,38.2756767 44.9141,35.7280015 L44.9141,32.6351976 C44.9141,30.0843158 42.8394042,28 40.3029522,28" id="Stroke-13" stroke="#000000" stroke-width="2" transform="translate(35.689399, 36.500000) scale(-1, 1) translate(-35.689399, -36.500000) "></path>
+                    <g id="Stroke-13">
+                        <use stroke="#FFFFFF" stroke-width="5" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#000000" stroke-width="2" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
